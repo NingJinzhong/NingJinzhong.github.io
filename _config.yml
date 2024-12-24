@@ -21,7 +21,7 @@ repository               : "NingJinzhong/NingJinzhong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "证件照.png"
   name             : "宁金忠"
   pronouns         : # example: "she/her"  
   bio              : "一名奋斗中的小青椒"
