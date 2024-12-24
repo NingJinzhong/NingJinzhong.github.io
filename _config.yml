@@ -22,11 +22,11 @@ repository               : "NingJinzhong/NingJinzhong.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "宁金忠"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "一名奋斗中的小青椒"
+  location         : "船电楼106"
+  employer         : "大连海事大学信息科学技术学院"
   uri              : # URL
   email            : "none@example.org" 
 
