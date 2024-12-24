@@ -11,8 +11,8 @@ main:
   - title: "学术汇报"
     url: /talks/    
 
-  - title: "教学"
+  - title: "教学授课"
     url: /teaching/    
     
-  - title: "招生宣传"
+  - title: "关于招生"
     url: /markdown/
