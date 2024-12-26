@@ -6,7 +6,7 @@
 
 main:
   - title: "发表论文"
-    url: /publications/
+    url: /papers/
 
   - title: "学术活动"
     url: /academicactivities/    
