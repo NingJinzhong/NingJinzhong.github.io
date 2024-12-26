@@ -8,11 +8,8 @@ main:
   - title: "发表论文"
     url: /publications/
 
-  - title: "学术汇报"
-    url: /talks/    
-
-  - title: "教学授课"
-    url: /teaching/    
+  - title: "学术活动"
+    url: /academic_activities/    
     
   - title: "关于招生"
     url: /admissions/
