@@ -1,7 +1,7 @@
 ---
 title: "关于招生"
 permalink: /admissions/
-layout: default  # 确保您有一个名为 `default.html` 的布局文件
+layout: single
 ---
 
 # 关于招生
