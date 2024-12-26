@@ -15,3 +15,4 @@ layout: single
 * **Jinzhong Ning**, Zhihao Yang, Hongfei LIN ,et al. BioNER-CFEM: Biomedical Named Entity Recognition Based on Character Feature Enhancement with Multimodal Method. BIBM2022（CCF B）
 
 * Ling Luo, **Jinzhong Ning**, Yingwen Zhao et al. Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks. Journal of the American Medical Informatics Association（CCF B,  JCR 1区）
+
