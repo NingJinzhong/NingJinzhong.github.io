@@ -1,6 +1,7 @@
 ---
 title: "关于招生"
 permalink: /admissions/
+author_profile: true
 layout: single
 ---
 
