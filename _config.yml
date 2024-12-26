@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "宁金忠@大连海事大学"
+title                    : "首页"
 title_separator          : "-"
-name                     : &name "宁金忠"
+name                     : &name "宁金忠@大连海事大学"
 description              : &description "personal description"
 url                      : https://ningjinzhong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  :  
