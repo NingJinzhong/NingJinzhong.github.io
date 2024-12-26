@@ -5,6 +5,4 @@ author_profile: true
 layout: single
 ---
 
-# 关于招生
-
 欢迎来到我们的招生页面。以下是详细信息：
