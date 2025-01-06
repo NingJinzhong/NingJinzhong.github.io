@@ -10,7 +10,7 @@ layout: single
 
 * 《Breaking the Boundaries: A Unified Framework for Chinese Named Entity Recognition Across Text and Speech》，2024年10月26日，NICE-苏大AI Lab举办的EMNLP2024分享会，[链接](https://mp.weixin.qq.com/s/Xl4-9Fvp9jTEaahvxbXhig)
 
-* 《大语言模型研究现状和发展趋势》，2024年5月29日，于大连海事大学，信息科学技术学院第6期Happy Hour学术活动[链接](https://news.dlmu.edu.cn/info/1003/181677.htm)。
+* 《大语言模型研究现状和发展趋势》，2024年5月29日，于大连海事大学，信息科学技术学院第6期Happy Hour学术活动，[链接](https://news.dlmu.edu.cn/info/1003/181677.htm)。
 
 * 《从Transformer到ChatGPT：生成式预训练模型的演进》，2024年3月23日，于大连外国语大学，图书情报专业硕士研究生全体参加。
 
