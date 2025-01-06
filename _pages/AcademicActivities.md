@@ -18,7 +18,7 @@ layout: single
 
 * 《Pytorch优化器及其内置优化算法原理介绍》[链接](https://mp.weixin.qq.com/s/nWK0ci4qtKXJd-j--ZsC4Q)，被中科院自动化所优质Ai公众号《人工智能前言讲习》转载
 
-* 《中文NER最新屠榜力作——LEBERT》[链接](https://mp.weixin.qq.com/s/MQ9HyQTBZ1YXkbXZ2ogShQ),被NLP领域知名公众号PaperWeekly收录，全网阅读量超五万，点赞超200
+* 《中文NER最新屠榜力作——LEBERT》[链接](https://mp.weixin.qq.com/s/MQ9HyQTBZ1YXkbXZ2ogShQ)，被NLP领域知名公众号PaperWeekly收录，全网阅读量超五万，点赞超200
 
 * 《When 多模态 meets 信息抽取》[链接](https://mp.weixin.qq.com/s/U-tvlEGNswhXYecoLJ76HA)，被NLP领域知名公众号PaperWeekly收录
 
