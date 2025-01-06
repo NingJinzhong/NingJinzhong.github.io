@@ -8,11 +8,25 @@ layout: single
 
 ## 学术汇报
 
-* 《Breaking the Boundaries: A Unified Framework for Chinese Named Entity Recognition Across Text and Speech》,2024年10月26日，[NICE-苏大AI Lab举办的EMNLP2024分享会](https://mp.weixin.qq.com/s/Xl4-9Fvp9jTEaahvxbXhig)
+* 《Breaking the Boundaries: A Unified Framework for Chinese Named Entity Recognition Across Text and Speech》，2024年10月26日，[NICE-苏大AI Lab举办的EMNLP2024分享会](https://mp.weixin.qq.com/s/Xl4-9Fvp9jTEaahvxbXhig)
 
 * 《大语言模型研究现状和发展趋势》，2024年5月29日，于大连海事大学，[信息科学技术学院第6期Happy Hour学术活动](https://news.dlmu.edu.cn/info/1003/181677.htm)。
 
 * 《从Transformer到ChatGPT：生成式预训练模型的演进》，2024年3月23日，于大连外国语大学，图书情报专业硕士研究生全体参加。
+
+## 代表性技术博客
+
+* 《Pytorch优化器及其内置优化算法原理介绍》[链接](https://mp.weixin.qq.com/s/nWK0ci4qtKXJd-j--ZsC4Q)，被中科院自动化所优质Ai公众号《人工智能前言讲习》转载
+
+* 《中文NER最新屠榜力作——LEBERT》[链接](https://mp.weixin.qq.com/s/MQ9HyQTBZ1YXkbXZ2ogShQ),被NLP领域知名公众号PaperWeekly收录，全网阅读量超五万，点赞超200
+
+* 《When 多模态 meets 信息抽取》[链接](https://mp.weixin.qq.com/s/U-tvlEGNswhXYecoLJ76HA)，被NLP领域知名公众号PaperWeekly收录
+
+* 《Q：把三元组装冰箱里需要几步？A：一步！》[链接](https://mp.weixin.qq.com/s/N6kEY0dRi7VFTXD6uDTSDQ)，被NLP领域知名公众号PaperWeekly收录
+
+* 《系好安全带，这个RE模型非常快！》[链接](https://mp.weixin.qq.com/s/UEAOKA91SyUeNCvrNg65dw)，被NLP领域知名公众号PaperWeekly收录
+
+* 《中文NER涨点神器！基于多元数据的双流Transformer编码模型》[链接](https://mp.weixin.qq.com/s/69m4v5LUCNzgJp7R3a1GxA)，被NLP领域知名公众号PaperWeekly收录
 
 ## 项目经验
 
