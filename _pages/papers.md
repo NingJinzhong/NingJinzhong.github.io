@@ -4,6 +4,8 @@ permalink: /papers/
 author_profile: true
 layout: single
 ---
+* **Jinzhong Ning**, Yuanyuan Sun, Hongfei LIN, et al. GenEn-MNER: Enhancing Nested Chinese NER with Multimodal Fusion and Alignment via Speech-to-Text Generation . IEEE TASLP 2025 (语音处理领域顶级期刊，CCF B，JCR 一区)
+
 * **Jinzhong Ning**, Zhihao Yang, Hongfei LIN, et al. Breaking the Boundaries: A Unified Framework for Chinese Named Entity Recognition Across Text and Speech . EMNLP (Findings) 2024 (NLP领域Top 2会议，CCF B会议Finding)
 
 * Pengyuan Nie, **Jinzhong Ning**, et al, SSGU-CD: A combined semantic and structural information graph U-shaped network for document-level Chemical-Disease interaction extraction.  J. Biomed. Informatics(2024)(JCR 1区)
