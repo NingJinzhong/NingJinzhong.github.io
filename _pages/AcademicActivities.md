@@ -28,6 +28,10 @@ layout: single
 
 * 《中文NER涨点神器！基于多元数据的双流Transformer编码模型》[链接](https://mp.weixin.qq.com/s/69m4v5LUCNzgJp7R3a1GxA)，被NLP领域知名公众号PaperWeekly收录
 
+## 技术评测
+
+* 承办《第一届面向中文语音的实体关系三元组抽取评测》于CCL2025。[官方链接](http://cips-cl.org/static/CCL2025/cclEval/taskEvaluation/index.html#%E4%BB%BB%E5%8A%A112%E7%AC%AC%E4%B8%80%E5%B1%8A%E9%9D%A2%E5%90%91%E4%B8%AD%E6%96%87%E8%AF%AD%E9%9F%B3%E7%9A%84%E5%AE%9E%E4%BD%93%E5%85%B3%E7%B3%BB%E4%B8%89%E5%85%83%E7%BB%84%E6%8A%BD%E5%8F%96%E8%AF%84%E6%B5%8B)，[天池链接](https://tianchi.aliyun.com/competition/entrance/532296)
+
 ## 项目经验
 
 ### "太一"双语生物医学大模型的研发
