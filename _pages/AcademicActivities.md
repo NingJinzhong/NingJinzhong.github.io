@@ -8,6 +8,8 @@ layout: single
 
 ## 学术汇报
 
+* 《MLNLP学术Talk第四十五期|面向语音的跨模态信息抽取方法研究》,2025年8月23日，MLNLP社区 和 中国中文信息学会青年工作委员会 联合举办的MLNLP学术Talk，[链接](https://mp.weixin.qq.com/s/Ls1hPN-ZKdUtynC46RboTQ)
+
 * 《Breaking the Boundaries: A Unified Framework for Chinese Named Entity Recognition Across Text and Speech》，2024年10月26日，NICE-苏大AI Lab举办的EMNLP2024分享会，[链接](https://mp.weixin.qq.com/s/Xl4-9Fvp9jTEaahvxbXhig)
 
 * 《大语言模型研究现状和发展趋势》，2024年5月29日，于大连海事大学，信息科学技术学院第6期Happy Hour学术活动，[链接](https://news.dlmu.edu.cn/info/1003/181677.htm)。
