@@ -4,6 +4,11 @@ permalink: /papers/
 author_profile: true
 layout: single
 ---
+
+* Yanxu Ji, **Jinzhong Ning**, Yijia Zhang, et al. LLM-Driven Implicit Target Augmentation and Fine-Grained Contextual Modeling for Zero-Shot and Few-Shot Stance Detection. EMNLP 2025(自然语言处理&大模型Top2顶会,CCF B)
+
+* Weiming Yin, **Jinzhong Ning**, Yijia Zhang, et al.A dual-branch multi-path propagation reasoning network for rumor detection integrating neural symbolic commonsense reasoning mechanism. IPM 2025(信息系统领域顶刊,CCF B, 中科院一区TOP)
+
 * **Jinzhong Ning**, Yuanyuan Sun, Hongfei LIN, et al. GenEn-MNER: Enhancing Nested Chinese NER with Multimodal Fusion and Alignment via Speech-to-Text Generation . IEEE TASLP 2025 (语音处理领域顶级期刊，CCF B，JCR 一区)
 
 * **Jinzhong Ning**, Zhihao Yang, Hongfei LIN, et al. Breaking the Boundaries: A Unified Framework for Chinese Named Entity Recognition Across Text and Speech . EMNLP (Findings) 2024 (NLP领域Top 2会议，CCF B会议Finding)
