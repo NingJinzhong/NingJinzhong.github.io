@@ -5,7 +5,11 @@ author_profile: true
 layout: single
 ---
 
+ 🏆 **指导学生战绩（置顶，持续更新中）**
+- Yanxu Ji（研一）, **Jinzhong Ning**, Yijia Zhang, et al. *LLM-Driven Implicit Target Augmentation and Fine-Grained Contextual Modeling for Zero-Shot and Few-Shot Stance Detection.* **EMNLP 2025** （自然语言处理 & 大模型 Top2 顶会，CCF B）
+- Weiming Yin（研二）, **Jinzhong Ning**, Yijia Zhang, et al. *A dual-branch multi-path propagation reasoning network for rumor detection integrating neural symbolic commonsense reasoning mechanism.* **Information Processing & Management 2025** （信息系统领域顶刊，CCF B，中科院一区 TOP）
 
+---
 
 我是一名2024年9月刚毕业的博士生，正在完成从学生到老师的角色转变。作为一名年轻的导师，我深知科研路上的挑战与乐趣，也希望能与未来的研究生以朋友兼科研伙伴的形式相处，共同成长。  
 
