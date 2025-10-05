@@ -66,6 +66,8 @@ layout: single
 
 **📣 智能技术研究中心公众号二维码** 
 
+<p style="color:red; font-weight:700; margin-top:12px;">如有未尽事宜，欢迎公众号后台私信咨询，或者发送邮件至 ningjinzhong@dlmu.edu.cn</p>
+
 ![智能技术研究中心公众号二维码](/ITREC微信公众号.jpg)  
 
-<p style="color:red; font-weight:700; margin-top:12px;">如有未尽事宜，欢迎公众号后台私信咨询，或者发送邮件至 ningjinzhong@dlmu.edu.cn</p>
+
