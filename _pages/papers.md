@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 
-* Wenxuna Mu, **Jinzhong Ning**, Di Zhao, Yijia Zhang. A Multi-Agent LLM Framework for Multi-Domain Low-Resource In-Context NER via Knowledge Retrieval, Disambiguation and Reflective Analysis. AAAI 2025(Oral,CCF B)
+* Wenxuna Mu, **Jinzhong Ning**, Di Zhao, Yijia Zhang. A Multi-Agent LLM Framework for Multi-Domain Low-Resource In-Context NER via Knowledge Retrieval, Disambiguation and Reflective Analysis. AAAI 2025(Oral,CCF A)
 
 * Yanxu Ji, **Jinzhong Ning**, Yijia Zhang, et al. LLM-Driven Implicit Target Augmentation and Fine-Grained Contextual Modeling for Zero-Shot and Few-Shot Stance Detection. EMNLP 2025(自然语言处理&大模型Top2顶会,CCF B)
 
