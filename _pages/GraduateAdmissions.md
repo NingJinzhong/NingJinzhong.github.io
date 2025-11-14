@@ -6,6 +6,8 @@ layout: single
 ---
 
  🏆 **指导学生战绩（置顶，持续更新中）**
+
+- Wenxuna Mu（博一）, **Jinzhong Ning**, Di Zhao, Yijia Zhang. A Multi-Agent LLM Framework for Multi-Domain Low-Resource In-Context NER via Knowledge Retrieval, Disambiguation and Reflective Analysis. AAAI 2025(Oral,CCF A)
 - Yanxu Ji（研一）, **Jinzhong Ning**, Yijia Zhang, et al. *LLM-Driven Implicit Target Augmentation and Fine-Grained Contextual Modeling for Zero-Shot and Few-Shot Stance Detection.* **EMNLP 2025** （自然语言处理 & 大模型 Top2 顶会，CCF B）
 - Weiming Yin（研二）, **Jinzhong Ning**, Yijia Zhang, et al. *A dual-branch multi-path propagation reasoning network for rumor detection integrating neural symbolic commonsense reasoning mechanism.* **Information Processing & Management 2025** （信息系统领域顶刊，CCF B，中科院一区 TOP）
 
