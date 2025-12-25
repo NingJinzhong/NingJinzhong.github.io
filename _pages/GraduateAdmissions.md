@@ -7,9 +7,9 @@ layout: single
 
  🏆 **指导学生战绩（置顶，持续更新中）**
 - 硕士生尹伟鸣获得国家奖学金。
-- 指导博士生穆文轩在博一上学期于AAAI2026（CCF A）发表一作ORAL论文一篇。
-- 指导硕士生季延旭在研一下学期于EMNLP2025（自然语言处理 & 大模型 Top2 顶会，CCF B）发表一作主会论文一篇。
-- 指导硕士生尹伟鸣在研二下学期于Information Processing & Management（信息系统领域顶刊，CCF B，中科院一区 TOP）发表一作论文一篇。
+- 博士生穆文轩在博一上学期于AAAI2026（CCF A）发表一作ORAL论文一篇。
+- 硕士生季延旭在研一下学期于EMNLP2025（自然语言处理 & 大模型 Top2 顶会，CCF B）发表一作主会论文一篇。
+- 硕士生尹伟鸣在研二下学期于Information Processing & Management（信息系统领域顶刊，CCF B，中科院一区 TOP）发表一作论文一篇。
 
 ---
 
